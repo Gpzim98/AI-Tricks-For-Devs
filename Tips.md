@@ -13,12 +13,13 @@ GitHub Next conducted a research to measure developers' productivity and satisfa
     1.  Auto-complete
 4.  Understand/refactor convoluted code
 5.  Write Unit tests
-6.  Regex
-7.  Understand error logs and give suggestions
-8.  Running your own LLM model locally (Ollama)
-9.  Write documentation
-10. Draw diagrams
-11. If time allows
+6.  Understand error logs and give suggestions
+7.  Running your own LLM model locally (Ollama)
+8.  Write documentation
+9.  Draw diagrams
+10. If time allows
 
 - Conveting laguages
 - Talk to documents using LangChain
+- Regex
+- gpt-engineer
