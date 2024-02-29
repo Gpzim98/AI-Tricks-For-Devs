@@ -1,6 +1,6 @@
 # **Syntax Sorcery: AI Spells for Coders**
 
-GitHub Next conducted a research to measure developers productivity and satisfaction, combining quantitative and qualitative researches, perceived and measured.
+GitHub Next conducted a research to measure developers' productivity and satisfaction, combining quantitative and qualitative researches, perceived and measured.
 
 - 60–75% - More fulfilled and less frustrated
 - 73% - Reported that CP helped them to stay in flow
@@ -18,5 +18,7 @@ GitHub Next conducted a research to measure developers productivity and satisfac
 8.  Running your own LLM model locally (Ollama)
 9.  Write documentation
 10. Draw diagrams
-11. If tim allows:
-12. Conveting laguages
+11. If time allows
+
+- Conveting laguages
+- Talk to documents using LangChain
